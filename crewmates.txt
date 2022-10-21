@@ -1,0 +1,10 @@
+Lola Doctor;Lola is a very successful healer and doctor and will make you gain 5% health each time you lose health after a battle.
+Nerys Fighter;Nerys is a world-class warrior and weapons operator, increase your odds of winning a battle with hostile aliens by 10%.
+Millie Tycoon;Millie is an fuel tycoon and will allow you to start with double the fuel.
+Chuck Intimidator;Chuck was once part of the CIA and is very charismatic and intimidating, the friendly alien will be 10% more likely to tell the truth.
+Mark Millionaire;Mark Millionaire is willing to use his personal funds in order to be a part of this mission, earn $100 more dollars after each move.
+Sherry Navigator;Sherry is a master navigator and pilot, lose 10% less fuel on each turn.
+Mary Brilliant;Mary is a world renowned scientist and will remove one wrong answer at the research sites.
+Bobby Boomer;Bobby has been in the space game for a while and is letting you borrow his old spacesuit with is a grade 3.
+Nellie Handylady;Nellie is great at fixing things and you will gain 5% spacesuit health each time you lose its health for any reason.
+Walter Supernatural;Walter has an supernatural skill of bringing you back from the dead, but only once with the same inventory and healths as before you died.

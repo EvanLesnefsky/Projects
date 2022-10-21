@@ -1,0 +1,6 @@
+e's Log Book page #1: AGKRW3-leks
+Planet size (in diameter of 1000 kms): 4
+Planet’s carrying capacity (in millions): 2460
+Habitable traits discovered: None
+Non-habitable traits discovered: None
+Friendly alien assessment: None
