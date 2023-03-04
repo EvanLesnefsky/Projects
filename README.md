@@ -2,7 +2,7 @@
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 mainDriver.cpp aliens.cpp game.cpp humans.cpp shuttle.cpp map.cpp planets.cpp 
+Compile: g++ -std=c++17 mainDriver.cpp aliens.cpp game.cpp humans.cpp shuttle.cpp map.cpp planets.cpp__
 Run: ./a.out
 ------------------------
 DEPENDENCIES
