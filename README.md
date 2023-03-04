@@ -2,13 +2,12 @@
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 mainDriver.cpp aliens.cpp game.cpp humans.cpp shuttle.cpp map.cpp planets.cpp__
+Compile: g++ -std=c++17 mainDriver.cpp aliens.cpp game.cpp humans.cpp shuttle.cpp map.cpp planets.cpp <br /> 
 Run: ./a.out
 ------------------------
 DEPENDENCIES
 ------------------------
-Shuttle.h, Humans.h, Planets.h, Aliens.h, Map.h, and Game.h must be in the same directory as the cpp 
-files in order to compile.
+Shuttle.h, Humans.h, Planets.h, Aliens.h, Map.h, and Game.h must be in the same directory as the cpp files in order to compile.
 ------------------------
 SUBMISSION INFORMATION
 ------------------------
