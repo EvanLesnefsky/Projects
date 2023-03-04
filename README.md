@@ -11,15 +11,11 @@ Shuttle.h, Humans.h, Planets.h, Aliens.h, Map.h, and Game.h must be in the same 
 ------------------------
 SUBMISSION INFORMATION
 ------------------------
-CSCI1300 Spring 2022 Project 3
-Author: Evan Lesnefsky & Jason Koch
-Recitation: 103 - Rahul Kumar
+CSCI1300 Spring 2022 Project 3 <br />
+Author: Evan Lesnefsky & Jason Koch <br />
+Recitation: 103 - Rahul Kumar <br />
 Date: March 21, 2022
 ------------------------
 ABOUT THIS PROJECT
 ------------------------
-This project is developing a game to allow the user to traverse through
-space and idenfity the habitability of planets to allow humanity to survive.
-The user can select two crewmates and travel with a space ship. They are given
-a light saber, 200,000 gallons of fuel, and other accomodations to start
-their journey through space. The ultimate goal is to survive as long as possible.
+This project is developing a game to allow the user to traverse through space and idenfity the habitability of planets to allow humanity to survive. The user can select two crewmates and travel with a space ship. They are given a light saber, 200,000 gallons of fuel, and other accomodations to start their journey through space. The ultimate goal is to survive as long as possible.
